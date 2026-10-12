@@ -13,9 +13,9 @@
 
 ### 個人照片
 
-![個人照片](image/profile.jpg)
+![個人照片](IMG_6992.jpg)
 
-> 請將個人照片命名為 `profile.jpg`，並放在 GitHub repository 的 `image` 資料夾中。
+
 
 ---
 
